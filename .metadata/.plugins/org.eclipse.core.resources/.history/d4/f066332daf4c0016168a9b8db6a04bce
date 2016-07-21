@@ -1,0 +1,7 @@
+package credits.sut;
+
+public class credits {
+	public double payment;
+	
+	public double calculateCredits(double payment) { return payment * 4; } 
+}

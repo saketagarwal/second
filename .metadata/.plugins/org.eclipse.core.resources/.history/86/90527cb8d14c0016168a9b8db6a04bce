@@ -1,0 +1,27 @@
+package Calc;
+
+public class Calc_sum {
+	
+	public double first,second;
+	
+	public static void main(String[] args){}
+
+	public void setFirst(double first) {
+		this.first = first;
+	}
+
+	public void setSecond(double second) {
+		this.second = second;
+	}
+	
+	public double sum()
+	{
+		return first+second;
+	}
+	
+	public double diff()
+	{
+		return first-second;
+	}
+	
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1468490638524_1" label="karaf-tutorial" name="karaf-tutorial">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/karaf-tutorial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-persistence" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-features" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-itests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configadmin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configapp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configapp-blueprint" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configadmin-features" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/karaf-tutorial-cxf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/personservice-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/personservice-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/personservice-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/personservice-proxy" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/personservice-webui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/camel-tutorial-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/example-jms2rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/example-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vaadin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vaadinbridge" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-ui-vaadin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tasklist-vaadin-features" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1468479098224_0" label="Window Working Set" name="Aggregate for window 1468479098224"/>
+</workingSetManager>

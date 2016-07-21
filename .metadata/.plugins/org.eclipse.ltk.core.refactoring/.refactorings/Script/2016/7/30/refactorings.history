@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Scriptpack.Scriptclass&apos; to &apos;LoginDialogDriver&apos;&#x0D;&#x0A;- Original project: &apos;Script&apos;&#x0D;&#x0A;- Original element: &apos;Scriptpack.Scriptclass&apos;&#x0D;&#x0A;- Renamed element: &apos;Scriptpack.LoginDialogDriver&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Scriptclass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Scriptpack{Scriptclass.java[Scriptclass" matchStrategy="1" name="LoginDialogDriver" qualified="false" references="true" similarDeclarations="false" stamp="1468918583298" textual="false" version="1.0"/>
+</session>
