@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="com.yolo.beans.Emp99" />
+         <!-- <mapping class="com.yolo.beans.Player" />
+         <mapping class="com.yolo.beans.Manager" /> -->
+         <mapping class="com.yolo.beans.Address99" />
+         <mapping class="com.yolo.beans.Student99" />
+         <mapping class="com.yolo.beans.MarkSheet99" />
+         <!-- <mapping class="com.yolo.beans.Address99" /> -->
+    </session-factory>
+        
+   
+</hibernate-configuration>
